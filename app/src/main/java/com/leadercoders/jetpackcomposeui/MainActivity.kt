@@ -16,6 +16,9 @@ import com.leadercoders.jetpackcomposeui.ders2.UrunDetayKarti
 import com.leadercoders.jetpackcomposeui.ders3.D332_TextBileseni
 import com.leadercoders.jetpackcomposeui.ders3.D333_ButonCesitleri
 import com.leadercoders.jetpackcomposeui.ders3.D336_GununSozu
+import com.leadercoders.jetpackcomposeui.ders4.BizeUlasinFormu
+import com.leadercoders.jetpackcomposeui.ders4.D344_KullanicidanVeriAlma
+import com.leadercoders.jetpackcomposeui.ders4.D345_GirisYapEkrani
 import com.leadercoders.jetpackcomposeui.ui.theme.GR01_MYM_M3_JetpackComposeUITheme
 
 class MainActivity : ComponentActivity() {
@@ -39,9 +42,16 @@ class MainActivity : ComponentActivity() {
                         //                               DERS-3
                         //                           D332_TextBileseni()
                         //                           D333_ButonCesitleri()
+                        //
                         //                               Alıştırma
-                                                     D336_GununSozu()
+                        //                           D336_GununSozu()
+                        //
+                        //                               DERS-4
+                        //                           D344_KullanicidanVeriAlma()
+                                                   D345_GirisYapEkrani()
 
+                        //                               Alıştırma
+                        //                             BizeUlasinFormu()
                     }
                 }
             }
