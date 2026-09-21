@@ -19,6 +19,10 @@ import com.leadercoders.jetpackcomposeui.ders3.D336_GununSozu
 import com.leadercoders.jetpackcomposeui.ders4.BizeUlasinFormu
 import com.leadercoders.jetpackcomposeui.ders4.D344_KullanicidanVeriAlma
 import com.leadercoders.jetpackcomposeui.ders4.D345_GirisYapEkrani
+import com.leadercoders.jetpackcomposeui.ders5.Proje_KullaniciKayitEkrani
+import com.leadercoders.jetpackcomposeui.ders6.D362_ResimEkleme
+import com.leadercoders.jetpackcomposeui.ders6.D363_IkonEkleme
+import com.leadercoders.jetpackcomposeui.ders6.D364_KartEkleme
 import com.leadercoders.jetpackcomposeui.ui.theme.GR01_MYM_M3_JetpackComposeUITheme
 
 class MainActivity : ComponentActivity() {
@@ -48,10 +52,17 @@ class MainActivity : ComponentActivity() {
                         //
                         //                               DERS-4
                         //                           D344_KullanicidanVeriAlma()
-                                                   D345_GirisYapEkrani()
+                        //                           D345_GirisYapEkrani()
 
                         //                               Alıştırma
                         //                             BizeUlasinFormu()
+
+                        //                              DERS-5
+                        //                           Proje_KullaniciKayitEkrani()
+                        //                              DERS-6
+                        //                           D362_ResimEkleme()
+                        //                           D363_IkonEkleme()
+                        D364_KartEkleme()
                     }
                 }
             }
