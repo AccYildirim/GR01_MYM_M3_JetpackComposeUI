@@ -23,6 +23,7 @@ import com.leadercoders.jetpackcomposeui.ders5.Proje_KullaniciKayitEkrani
 import com.leadercoders.jetpackcomposeui.ders6.D362_ResimEkleme
 import com.leadercoders.jetpackcomposeui.ders6.D363_IkonEkleme
 import com.leadercoders.jetpackcomposeui.ders6.D364_KartEkleme
+import com.leadercoders.jetpackcomposeui.ders6.YemekTarifiKarti
 import com.leadercoders.jetpackcomposeui.ui.theme.GR01_MYM_M3_JetpackComposeUITheme
 
 class MainActivity : ComponentActivity() {
@@ -62,7 +63,13 @@ class MainActivity : ComponentActivity() {
                         //                              DERS-6
                         //                           D362_ResimEkleme()
                         //                           D363_IkonEkleme()
-                        D364_KartEkleme()
+                        //                           D364_KartEkleme()
+
+                        //                               Alıştırma
+                        YemekTarifiKarti()
+
+
+
                     }
                 }
             }
