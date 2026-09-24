@@ -24,6 +24,10 @@ import com.leadercoders.jetpackcomposeui.ders6.D362_ResimEkleme
 import com.leadercoders.jetpackcomposeui.ders6.D363_IkonEkleme
 import com.leadercoders.jetpackcomposeui.ders6.D364_KartEkleme
 import com.leadercoders.jetpackcomposeui.ders6.YemekTarifiKarti
+import com.leadercoders.jetpackcomposeui.ders7.D372_TekliVeCokluSecim
+import com.leadercoders.jetpackcomposeui.ders7.D373_Slider
+import com.leadercoders.jetpackcomposeui.ders7.D374_Switch
+import com.leadercoders.jetpackcomposeui.ders7.D375_PizzaSiparisEkrani
 import com.leadercoders.jetpackcomposeui.ui.theme.GR01_MYM_M3_JetpackComposeUITheme
 
 class MainActivity : ComponentActivity() {
@@ -34,42 +38,46 @@ class MainActivity : ComponentActivity() {
             GR01_MYM_M3_JetpackComposeUITheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Box(modifier = Modifier.padding(innerPadding)) {
-                        //                               DERS-1
-                        //                           SelamlamaEkrani()
+//                         DERS-1
+//                     SelamlamaEkrani()
 
-                        //                               DERS-2
-                        //                           D322_TemelDizilimler()
-                        //                           D326_ProfilKarti()
+//                         DERS-2
+//                     D322_TemelDizilimler()
+//                     D326_ProfilKarti()
 
-                        //                               Alıştırma
-                        //                           UrunDetayKarti()
+//                         Alıştırma
+//                      UrunDetayKarti()
 
-                        //                               DERS-3
-                        //                           D332_TextBileseni()
-                        //                           D333_ButonCesitleri()
-                        //
-                        //                               Alıştırma
-                        //                           D336_GununSozu()
-                        //
-                        //                               DERS-4
-                        //                           D344_KullanicidanVeriAlma()
-                        //                           D345_GirisYapEkrani()
+//                         DERS-3
+//                      D332_TextBileseni()
+//                      D333_ButonCesitleri()
+//
+//                         Alıştırma
+//                      D336_GununSozu()
+//
+//                         DERS-4
+//                      D344_KullanicidanVeriAlma()
+//                      D345_GirisYapEkrani()
 
-                        //                               Alıştırma
-                        //                             BizeUlasinFormu()
+//                         Alıştırma
+//                      BizeUlasinFormu()
 
-                        //                              DERS-5
-                        //                           Proje_KullaniciKayitEkrani()
-                        //                              DERS-6
-                        //                           D362_ResimEkleme()
-                        //                           D363_IkonEkleme()
-                        //                           D364_KartEkleme()
+//                         DERS-5
+//                      Proje_KullaniciKayitEkrani()
 
-                        //                               Alıştırma
-                        YemekTarifiKarti()
+//                         DERS-6
+//                      D362_ResimEkleme()
+//                      D363_IkonEkleme()
+//                      D364_KartEkleme()
 
+//                         Alıştırma
+//                      YemekTarifiKarti()
 
-
+//                         DERS-7
+//                      D372_TekliVeCokluSecim()
+//                      D373_Slider()
+//                      D374_Switch()
+                        D375_PizzaSiparisEkrani()
                     }
                 }
             }
