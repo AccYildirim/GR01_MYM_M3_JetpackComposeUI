@@ -20,6 +20,7 @@ import com.leadercoders.jetpackcomposeui.ders4.BizeUlasinFormu
 import com.leadercoders.jetpackcomposeui.ders4.D344_KullanicidanVeriAlma
 import com.leadercoders.jetpackcomposeui.ders4.D345_GirisYapEkrani
 import com.leadercoders.jetpackcomposeui.ders5.Proje_KullaniciKayitEkrani
+import com.leadercoders.jetpackcomposeui.ders5.SifremiUnuttumEkrani
 import com.leadercoders.jetpackcomposeui.ders6.D362_ResimEkleme
 import com.leadercoders.jetpackcomposeui.ders6.D363_IkonEkleme
 import com.leadercoders.jetpackcomposeui.ders6.D364_KartEkleme
@@ -66,6 +67,9 @@ class MainActivity : ComponentActivity() {
 //                         DERS-5
 //                      Proje_KullaniciKayitEkrani()
 
+//                         Alıştırma
+//                      SifremiUnuttumEkrani()
+
 //                         DERS-6
 //                      D362_ResimEkleme()
 //                      D363_IkonEkleme()
@@ -81,7 +85,19 @@ class MainActivity : ComponentActivity() {
 //                      D375_PizzaSiparisEkrani()
 
 //                         Alıştırma
-                        D376_AyarlarSayfasi()
+//                      D376_AyarlarSayfasi()
+
+//                         DERS-8
+
+//                         Alıştırma
+
+//                         DERS-9
+
+//                         Alıştırma
+
+//                         DERS-10
+
+//                         Alıştırma
                     }
                 }
             }
