@@ -28,6 +28,7 @@ import com.leadercoders.jetpackcomposeui.ders7.D372_TekliVeCokluSecim
 import com.leadercoders.jetpackcomposeui.ders7.D373_Slider
 import com.leadercoders.jetpackcomposeui.ders7.D374_Switch
 import com.leadercoders.jetpackcomposeui.ders7.D375_PizzaSiparisEkrani
+import com.leadercoders.jetpackcomposeui.ders7.D376_AyarlarSayfasi
 import com.leadercoders.jetpackcomposeui.ui.theme.GR01_MYM_M3_JetpackComposeUITheme
 
 class MainActivity : ComponentActivity() {
@@ -77,7 +78,10 @@ class MainActivity : ComponentActivity() {
 //                      D372_TekliVeCokluSecim()
 //                      D373_Slider()
 //                      D374_Switch()
-                        D375_PizzaSiparisEkrani()
+//                      D375_PizzaSiparisEkrani()
+
+//                         Alıştırma
+                        D376_AyarlarSayfasi()
                     }
                 }
             }
