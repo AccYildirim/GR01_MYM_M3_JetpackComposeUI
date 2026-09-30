@@ -34,6 +34,7 @@ import com.leadercoders.jetpackcomposeui.ders8.D382_LazyColumn
 import com.leadercoders.jetpackcomposeui.ders8.D383_LazyRow
 import com.leadercoders.jetpackcomposeui.ders8.D384_DinamikListeUretimi
 import com.leadercoders.jetpackcomposeui.ders8.D385_RehberUygulamasi
+import com.leadercoders.jetpackcomposeui.ders8.KartListesi
 import com.leadercoders.jetpackcomposeui.ders9.D392_Scaffold
 import com.leadercoders.jetpackcomposeui.ders9.D393_AlertDialog
 import com.leadercoders.jetpackcomposeui.ders9.D394_DropDownMenu
@@ -100,7 +101,7 @@ class MainActivity : ComponentActivity() {
 //                      D384_DinamikListeUretimi()
 //                      D385_RehberUygulamasi()
 //                         Alıştırma
-
+//                      KartListesi()
 //                         DERS-9
 //                      D392_Scaffold()
 //                      D393_AlertDialog()
