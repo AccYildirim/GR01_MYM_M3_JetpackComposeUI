@@ -10,6 +10,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
 import androidx.compose.ui.Modifier
 import com.leadercoders.jetpackcomposeui.ders1.SelamlamaEkrani
+import com.leadercoders.jetpackcomposeui.ders10.Proje_TeknolojiKatalogu
 import com.leadercoders.jetpackcomposeui.ders2.D322_TemelDizilimler
 import com.leadercoders.jetpackcomposeui.ders2.D326_ProfilKarti
 import com.leadercoders.jetpackcomposeui.ders2.UrunDetayKarti
@@ -110,7 +111,7 @@ class MainActivity : ComponentActivity() {
 //                         Alıştırma
 //                      OnayEkrani()
 //                         DERS-10
-
+                        Proje_TeknolojiKatalogu()
 //                         Alıştırma
                     }
                 }
