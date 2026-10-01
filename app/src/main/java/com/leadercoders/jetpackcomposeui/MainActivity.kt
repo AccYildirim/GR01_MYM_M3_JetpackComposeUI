@@ -38,6 +38,7 @@ import com.leadercoders.jetpackcomposeui.ders8.KartListesi
 import com.leadercoders.jetpackcomposeui.ders9.D392_Scaffold
 import com.leadercoders.jetpackcomposeui.ders9.D393_AlertDialog
 import com.leadercoders.jetpackcomposeui.ders9.D394_DropDownMenu
+import com.leadercoders.jetpackcomposeui.ders9.OnayEkrani
 import com.leadercoders.jetpackcomposeui.ui.theme.GR01_MYM_M3_JetpackComposeUITheme
 
 class MainActivity : ComponentActivity() {
@@ -107,7 +108,7 @@ class MainActivity : ComponentActivity() {
 //                      D393_AlertDialog()
 //                      D394_DropDownMenu()
 //                         Alıştırma
-
+//                      OnayEkrani()
 //                         DERS-10
 
 //                         Alıştırma
